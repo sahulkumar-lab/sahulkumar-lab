@@ -1,5 +1,6 @@
-# 💫 About Me:
-# Hi there, I'm Sahul! 👋<br><br>I'm a content creator and tech builder based in Lucknow, India. I focus on creative media production, visual graphics, and technical troubleshooting.<br><br>### 📌 What I Do<br>- 🎥 **Vlogging & Content Creation:** Running YouTube creator projects with a focus on local stories and visual thumbnail design.<br>- 🎨 **Visual & Graphics Editing:** Creating vector graphics, photo modifications, and custom background edits.<br>- ⚙️ **Tech & Hardware Operations:** System maintenance, network storage/NVR setups, and PC workstation workflows.<br><br>### 🛠️ Tech & Tools<br>- **Media & Design:** Photo Editing, Graphic Design, Video Production<br>- **OS & Systems:** Windows Administration, OriginOS<br>- **Hardware & Networks:** Workstations, NVR/IP Camera Configurations, Device Troubleshooting<br><br>---<br>📫 **Connect with me:** 
+Sahul Kumar | Content Creator & Tech Tinkerer
+
+Exploring visual media, graphic design, and hardware workflows.
 
 
 ## 🌐 Socials:
