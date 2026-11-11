@@ -34,19 +34,4 @@ Exploring visual media, graphic design, and hardware workflows.<br>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)<br>
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sahulkumar-lab&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sahulkumar-lab&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sahulkumar-lab&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<!--## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sahulkumar-lab&theme=default_repocard&no-frame=false&no-bg=false&margin-w=4)-->
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<!--<### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sahulkumar-lab&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=sahulkumar-lab&icon=1&color=2)](https://visitcount.itsvg.in)--/>
